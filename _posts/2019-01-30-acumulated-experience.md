@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accumulated experience of Yua
-author: Toyo
+author: Sal
 categories:
 - Jekyll
 image: "/assets/images/15-46-35-fdfcnz2agaa9brz.jpg"

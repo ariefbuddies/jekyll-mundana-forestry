@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Jekla??
+title: What is Jeklah??
 author: jane
 categories:
 - Jekyll

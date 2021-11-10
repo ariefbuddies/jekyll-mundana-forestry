@@ -3,8 +3,8 @@ layout: post
 title: Fuck Yeahh!
 categories:
 - Jekyll
-image: assets/images/demo1.jpg
-author: Brafie
+image: "/assets/images/37dcdb66cd9b2c26999e0a9557943f7d.jpg"
+author: ''
 
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

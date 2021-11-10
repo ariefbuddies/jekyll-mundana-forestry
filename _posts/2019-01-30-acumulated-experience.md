@@ -4,7 +4,7 @@ title: Accumulated experience of Yua
 author: Sal
 categories:
 - Jekyll
-image: "/assets/images/15-46-35-fdfcnz2agaa9brz.jpg"
+image: ''
 
 ---
 The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 

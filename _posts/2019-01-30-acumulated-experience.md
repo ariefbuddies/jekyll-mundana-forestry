@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Accumulated experience of social living
+title: Accumulated experience of Yua
 author: Toyo
 categories:
 - Jekyll
-- tutorial
 image: "/assets/images/15-46-35-fdfcnz2agaa9brz.jpg"
 
 ---
